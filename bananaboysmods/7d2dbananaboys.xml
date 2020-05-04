@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Servers>
+
+       <ServerGroup Name="Banana Boy Mods" Logo="" Description="">
+
+               <Server Name="Banana Boys Server" Logo="">
+
+                       <Description>
+                       1st. Preload Mod
+                       2nd. Update localization files by: 
+                             \7 Days To Die\Mods\Sorcery\Localization.txt
+
+
+Sorcery Wiki: https://github.com/7d2d-sorcery/Sorcery/wiki
+Darkness Falls Wiki: https://community.7daystodie.com/topic/4941-darkness-falls-they-mostly-come-out-at-night/
+
+
+                       </Description>
+
+       <SubscriptionLink>https://raw.githubusercontent.com/7D2DMods/Profiles/master/DUST2DEATH.txt</SubscriptionLink>
+			 <DownloadMode>Clone</DownloadMode>
+			 <Version>Latest</Version>
+       <EAC>Disable</EAC>
+			 <ReleaseNotes>https://7daystodie.com/forums/showthread.php?86145-HDHQ-Textures-Lighting-Environment</ReleaseNotes>
+       <Downloads>
+          <Download>https://gitlab.com/DUST2DEATH/HDHQ2K</Download>
+			</Downloads>
+		</Server>
+
+
+       </ServerGroup>
+
+</Servers>
